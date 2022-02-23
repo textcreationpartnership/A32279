@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious speech, together with the lord keepers, to both Houses of Parliament, January 7. 1673/4</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32279</idno>
+            <idno type="STC">Wing C3076</idno>
+            <idno type="STC">ESTC R35935</idno>
+            <idno type="EEBO-CITATION">15579842</idno>
+            <idno type="OCLC">ocm 15579842</idno>
+            <idno type="VID">103904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:68)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious speech, together with the lord keepers, to both Houses of Parliament, January 7. 1673/4</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh re-printed :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103904:1"/>
+            <pb facs="tcp:103904:1"/>
+            <p>
+               <hi>His Majeſties</hi> GRACIOUS SPEECH, Together with the LORD KEEPERS, To both Houſes of PARLIAMENT, <hi>January</hi> 7. 1673/4.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties ſpecial Command.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QUI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>EDINBURGH,</hi> Re-printed by His MAJESTIES Printers: <hi>Anno DOM.</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:103904:2"/>
+            <pb n="3" facs="tcp:103904:2"/>
+            <head>HIS MAJESTIES GRACIOUS SPEECH To both Houſes of PARLIAMENT, <hi>January</hi> 7. 1673/4.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I parted with you laſt, it was but for a little time, and with a reſolution of meet<g ref="char:EOLhyphen"/>ing ſuddenly again. That alone was e<g ref="char:EOLhyphen"/>nough to ſatisfie My Friends that they need not fear, and My Enemies that they could not hope for a Breach between Us. I then told you, that the time of this ſhort Receſs ſhould be employed in doing ſuch things as might add to your Satiſ<g ref="char:EOLhyphen"/>faction. I hope I have done My part to<g ref="char:EOLhyphen"/>wards it: And if there be any thing elſe which you think wanting to ſecure Religion or Property, there is nothing which you ſhall reaſonably propoſe, but I ſhall be ready to receive it. I do now expect you ſhould do your parts too, for Our Enemies make vigorous preparations for War, and yet their chief hopes are to diſunite us at home; 'tis their Common Diſcourſe, and yet they reckon upon it as their beſt Relief.</p>
+            <p>
+               <hi>My Lords and Gentlemen,</hi>
+            </p>
+            <p>It is not poſſible for Me to doubt your Affections at any time, much leſs at ſuch a time as this, when the Evidences of your Affe<g ref="char:EOLhyphen"/>ctions are become ſo neceſſary to us all. I deſire you to conſider, that as the War cannot be well made without a Supply, ſo neither can a good Peace be had without being in a poſture of War. I am very far from being in love with War, for Wars ſake; But if I ſaw
+<pb n="4" facs="tcp:103904:3"/>and likelyhood of Peace without diſhonour to My Self, and damage to You, I would ſoon embrace it. But no propoſals of Peace have yet been offered, which can be imagined with intent to conclude, but only to amuſe. Therefore the way to a good Peace is to ſet out a good Fleet, which We have time enough to do very effectual<g ref="char:EOLhyphen"/>ly, if the Supply be not delayed. If after this a Peace ſhould fol<g ref="char:EOLhyphen"/>low, yet the Supply would be well given, for what ever remains of it, I am willing ſhould be appropriated for building more Ships.</p>
+            <p>To conclude, a ſpeedy, a proportionable, and above all a cheer<g ref="char:EOLhyphen"/>ful Ayd is now more neceſſary then ever, and I rely upon you for it.</p>
+            <p>I lately put you in mind of my Debt to the Goldſmiths; I hope a fit time will come to take that into conſideration.</p>
+            <p>I cannot conclude without ſhewing the entire Confidence I have in you. I know you have heard much of My Alliance with <hi>France,</hi> and I believe it hath been very ſtrangely miſrepreſented to you, as if there were certain ſecret Articles of dangerous Conſequence; I will make no difficulty of letting the Treaties and all the Articles of them, without any the leaſt reſerve, to be ſeen by a ſmall Com<g ref="char:EOLhyphen"/>mitee of both Houſes, who may Report to you the true ſcope of them; And I aſſure you there is no other Treaty with <hi>France,</hi> ei<g ref="char:EOLhyphen"/>ther before or ſince, not already Printed, which ſhall not be made known. And having this freely truſted you, I do not doubt but you will have a care of My Honour, and the good of the Kingdom.</p>
+            <closer>
+               <signed>The reſt I refer to My Lord Keeper.</signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="5" facs="tcp:103904:3"/>
+            <head>THE LORD KEEPERS SPEECH.</head>
+            <opener>
+               <salute>My Lords, and you the Knights, Citizens, and Burgeſſes of the Houſe of Commons</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He King hath already in Part, told you, What he hath done for you ſince the laſt Receſs, What he is ſtill ready to do, and What it is he doth now expect from you.</p>
+            <p>And this in Terms ſo full, and ſo Oblig<g ref="char:EOLhyphen"/>ing, ſo Generous, and ſo Satisfactory, That he whoſe Affections are not rais'd by that Diſcourſe, He who cannot Acquieſce in the fulneſs of this Aſſurance, He whoſe Heart is not Eſtabliſht by it in ſuch a Belief as may entirely Diſ<g ref="char:EOLhyphen"/>poſe him to the Service of the Crown, will hardly be recover'd to a better Diſpoſition by any other Expedient.</p>
+            <p>For indeed what better way can be found to undeceive thoſe who have been abus'd, The King refers you to the Time paſt, not to his Promiſes, but to his Performances, Gives men leave to Judge by what they See, of what they Hear, By what hath been done ſince the Laſt Seſſion, of what is offer'd you Now, and what is like<g ref="char:EOLhyphen"/>ly to be done for the time to come.</p>
+            <p>And doth not every man See that the King hath given New life and motion to ſuch Laws as were long dead, or faſt aſleep? That he hath once more repair'd the Hedge about our Vineyard, and made it a Fence indeed, Againſt all thoſe who are Enemies to the Planting of it, who would be glad to ſee it Trodden down, or Root<g ref="char:EOLhyphen"/>ed up, and ſtudy how to Sap and undermine our very Foundations.</p>
+            <p>Do we not ſee that the King hath made it his care and his buſineſs to do all that is poſſible to preſerve us in our Civil Rights too, That He makes the Laws of His Kingdom the mea<g ref="char:EOLhyphen"/>ſures not only of his Power but his Prudence, That he ſuffers no man to be Wiſer then the Law, That He thinks he cannot Judge of the Health or Sickneſs of his State by any better Indica<g ref="char:EOLhyphen"/>tion,
+<pb n="6" facs="tcp:103904:4"/>then the Current of his Laws, and ſuffers nothing to remain that may in the Leaſt meaſure hinder Juſtice from flowing in its due and proper Channels?</p>
+            <p>A very few inſtances, of many that might be uſed, will ſerve to Demonſtrate it.</p>
+            <p>If the Convictions of all Recuſants and bringing them under the the Penal Laws, can ſuppreſs Popery.</p>
+            <p>If without ſtaying for the Forms of Law in Points of Convicti<g ref="char:EOLhyphen"/>on, The preſent forbidding all Papiſts, or reputed Papiſts to come to Court, and the Extending this Prohibition to his Royal Palace at St. <hi>James</hi>'s be enough to Diſcountenance them,</p>
+            <p>If the not extending his Prerogative beyond its due Limits can ſecure your Liberties,</p>
+            <p>If his Majeſties leſſening and reducing all his Land forces, and maintaining ſo few Extraordinary, that they will ſcarce be enough to help to Mann his Fleet this Summer, can Extinguiſh the Fears of a Standing Army,</p>
+            <p>If a Rigorous and Severe proſecution at Law, of all the Officers and Souldiers in his Majeſties Ordinary Guards when they misbe<g ref="char:EOLhyphen"/>have themſelves towards the meaneſt Subject, can ſecure your Properties,</p>
+            <p>If the Abrogation of all the Priviledges from Arreſts which were claim'd by his Majeſties Servants Extraordinary, who are very Numerous, can prevent the Delays, and Obſtructions of Juſtice.</p>
+            <p>Then ſurely his Majeſty hath reaſon to believe, that nothing is wanting which can Lawfully be done, or modeſtly be Wiſht, either for your Satisfaction or your Security.</p>
+            <p>Theſe are not ſingle and Tranſient Acts, but ſuch Acts as flow from Habits, Theſe are not Leaves and Bloſſoms, but true, ſolid, and Laſting Fruits, Long! Long! may that Royal Tree Live and Flouriſh, upon which theſe Fruits do Grow.</p>
+            <p>And yet His Majeſties Indulgence to you reſts not here, He gives you leave to ſtudy and contrive your own aſſurance, And if you think you want any further ſecurity, If any thing have eſcaped His Majeſties care, who meditates nothing more then your Preſer<g ref="char:EOLhyphen"/>vation, you ſee you have free Leave to make any Reaſonable Pro<g ref="char:EOLhyphen"/>poſition, and His Gracious Promiſe that he will receive it.</p>
+            <p>This is a Satisfaction Equal to all your wiſhes. Now if ever your Joyes are full, There wants no more to the improvement of this happineſs, but the wiſdom of the Parliament to uſe theſe Ad<g ref="char:EOLhyphen"/>vantages with a due moderation.</p>
+            <p>If therefore upon Enquiry you ſhall think it needfull to apply any other Remedies, It is extreamly to be wiſht that thoſe Reme<g ref="char:EOLhyphen"/>dies may be few, And withall, that they may be Gentle and Eaſy too.</p>
+            <p>For they that are ſick periſh as often by too many Remedies as by none at all, But none fall ſo fatally and ſo finally, as they who being enter'd into ſome Degrees of Convaleſcence, Reſolve to re<g ref="char:EOLhyphen"/>cover
+<pb n="7" facs="tcp:103904:4"/>in an Inſtant, and had rather make ſome great Effort, or try ſome bold Experiment upon themſelves, then obſerve the me<g ref="char:EOLhyphen"/>thods, or attend thoſe Gradual progreſſions which are neceſſary to perfect that Health, and compleat that Recovery.</p>
+            <p>I muſt not omit one inſtance more of His Majeſties Care for you, and that it is the great Induſtry and Application of mind which His Majeſty hath us'd all along, in hopes to have obtain'd by this time, if it had been poſſible, an Honourable and a Juſt Peace.</p>
+            <p>A very few words will ſerve to give you the whole Deduction of it from the firſt original, to this preſent moment.</p>
+            <p>Much time was ſpent in agreeing the Place of Treaty, wherein the <hi>Dutch</hi> were gratifi'd in their deſires, and the City of <hi>Cologne</hi> is accepted for the Place.</p>
+            <p>When His Majeſties Ambaſſadours arriv'd there, the very firſt meeting with thoſe from the States General made it Evident that their Plenipotentiaries came not with any Intention to Enter upon a Serious Treaty, But only to draw the matter out into Length un<g ref="char:EOLhyphen"/>till their affairs might meet with a better and more pleaſing Con<g ref="char:EOLhyphen"/>jecture.</p>
+            <p>For their very Credentialls or Plenipotencies were ſo penn'd, That there were no leſs then four groſs Equivocations in the body of them, which was ſo manifeſt, and without all reply, that they were fain to ſend to their Maſters at the <hi>Hague</hi> to get them Amended.</p>
+            <p>But that which gave greateſt offence of all, and was purpoſely done for that end, was the Preamble, wherein they take upon them to begg the Queſtion, to Decide the Juſtice of the Cauſe, and to affirm ſuch matters of Fact, as they had reaſon to believe would never be admitted.</p>
+            <p>No Arguments of Our Ambaſſadours, No inſtances of the Me<g ref="char:EOLhyphen"/>diators, though never ſo importunate, could prevail then, or yet can prevail, to have it altered.</p>
+            <p>The Treaty ſhould Naturally have ſtopt here, But that His Majeſty was reſolved to Give a beginning to it, and (which was all that could be done) ſuffered His Ambaſſadors to enter upon it with a Proteſtaion.</p>
+            <p>Our Demands are no ſooner given in, But preſently two of the <hi>Dutch</hi> Ambaſſadours go away to the <hi>Hague</hi> on pretence to conſult their Maſters, where they ſtaid a full Moneth without any kind of Anſwer given, or Exceptions taken to His Majeſties Demands, or any the Leaſt Stepp made in this Negotiation.</p>
+            <p>When they came back, their Anſwer was a Remonſtrance rather then an Anſwer, and ſuch a Remonſtrance, as was fitter for a Rup<g ref="char:EOLhyphen"/>ture then a Treaty, There was ſcarce one Period in it which did not rather give Occaſion of new offence, then any Satisfaction for what was paſt.</p>
+            <pb n="8" facs="tcp:103904:5"/>
+            <p>Their very Converſation from that time forward wanted much of its former Civility.</p>
+            <p>They waited for the Concluſion of a Treaty with <hi>Spain,</hi> where<g ref="char:EOLhyphen"/>in one Article was, that as ſoon as <hi>Spain</hi> had broke with <hi>France,</hi> they would preſently break off the Treaty at <hi>Cologne.</hi>
+            </p>
+            <p>And now this Article is in effect performed, For two of their Principal Ambaſſadours are actually gone away from <hi>Cologne,</hi> as they long threatned they would do, leaving only two other for Forms ſake, who in all probability either muſt not, or will not Conclude without their Colleagues.</p>
+            <p>His Majeſty notwithſtanding hath not ſuffer'd himſelf to be Di<g ref="char:EOLhyphen"/>verted from uſing all the ways and means that were poſſible to Faci<g ref="char:EOLhyphen"/>litate a Peace. To this End he directed His Ambaſſadors from time to time, to Moderate their demands in ſuch Particulars as were capable of it, And wholly relaxes ſome Points which were of high<g ref="char:EOLhyphen"/>eſt importance to the Dutch to gain, and very Conſiderable Abatements of His Majeſties juſt Satisfaction.</p>
+            <p>A Condeſcention well receiv'd and Eſteem'd by the Mediators, though it have not yet found any ſuitable Reception from the Duch Miniſters, or their Superior Lords.</p>
+            <p>By this time they began to hope that the Subjects of <hi>England</hi> would grow weary of the War, and that they ſhould be able to profit themſelves very much by our Impatience.</p>
+            <p>To Encreaſe this as much as was poſſible, they prepare a Letter which they ſend by a Trumpeter, ſitting the Parliament, or very neer it, and Cauſe it to be given out that nothing could be more deſired, then they had offer'd.</p>
+            <p>His Majeſty quickly made that Letter and His Anſwer to it, publick, and for that time defeated the Deſign of this Paper Stratagem.</p>
+            <p>Their next Recourſe was to ſuch Propoſals as they could pro<g ref="char:EOLhyphen"/>cure the Spaniſh Ambaſſadours to deliver on their behalfs.</p>
+            <p>Wherein beſides the Demands of Reſtitution of Prizes which was wholly impracticable, There was a Total Omiſſion of any Re<g ref="char:EOLhyphen"/>gulation of Trade in the <hi>Indies,</hi> No mention made of Releaſing His Majeſties Subjects at <hi>Suriuam,</hi> whete they remain in a State of Bon<g ref="char:EOLhyphen"/>dage, No recompence offer'd, nor ſo much as Leave asked for the Libety of Fiſhing upon Our Coaſts.</p>
+            <p>And yet the Right of our Sole Fiſhing is ſo cleer, That we find in our Ancient Rolls of Parliament in time of <hi>Richard</hi> the Second, a Tax laid upon all ſtrangers who Fiſh in our Seas, and this not by way of Cuſtom when they come into our Ports, but by way of Tribute for Fiſhing in Our Seas: And this Evidence of His Maje<g ref="char:EOLhyphen"/>ſties Dominion within his own Seas, hath been in all Ages downward preſerved in ſome meaſure, until the Time of the late Uſurper, who for private reaſons firſt abandon'd it.</p>
+            <p>As for that Satisfaction in the matter of the Flagg, which the Propoſals mention, it is but reaſonable to underſtand it in
+<pb n="9" facs="tcp:103904:5"/>that ſenſe wherein they ſometimes uſed to expreſs themſeleves at <hi>Cologne.</hi>
+            </p>
+            <p>That is the thing ſhall be done, whole Fleets ſhall ſtrike their Sayls to Single Ships, and they ſhall do it out of His Majeſties Seas too, But that of Right they ought ſo to do, will never be ac<g ref="char:EOLhyphen"/>knowledg'd.</p>
+            <p>So they deſire to change the Ancient inheritance of the Crown into a New purchaſe, and to Turn that Purchaſe into a Matter of Civility, which they may Equally pay to all crown'd Heads, and Equally reſume according to their good pleaſure and Occaſions.</p>
+            <p>Now though theſe Propoſals have been backt with ſome kind of Intimation of a War with <hi>Spain</hi> in caſe of a Refuſal, Yet His Ma<g ref="char:EOLhyphen"/>jeſty who Knows the Articles of Peace between himſelf and that King, and His own care to preſerve them, Who knows the uſeful<g ref="char:EOLhyphen"/>neſs of His Allience to that King, and the many good Offices he hath alwaies been ready to do for him, and withal conſiders the great Wiſdom and Prudence of that Councel, and how care<g ref="char:EOLhyphen"/>fully they uſe to Deliberate before they come to Great and im<g ref="char:EOLhyphen"/>portant Reſolutions, will not Eaſily believe it poſſible for that King to proceed to ſuch Extremities.</p>
+            <p>The rather becauſe the Dutch themſelves have ſince Departed from thoſe very Propoſals which they procur'd the Spaniſh Ambaſ<g ref="char:EOLhyphen"/>ſadour ſo earneſtly to recommend.</p>
+            <p>For they afterward ſent the Ambaſſadour a Reply to His Maje<g ref="char:EOLhyphen"/>ſties Anſwer to their Letter, wherein they abate much of what the Ambaſſadour had offer'd, and ſeek to reduce things to the State they were in at <hi>Breda.</hi>
+            </p>
+            <p>So that 'tis hard to know by what kind of Propoſals they intend to be bound, But 'tis moſt Reaſonable to believe they intend thoſe made by themſelves, rather then thoſe made for them.</p>
+            <p>And yet this Reply, beſides the diſreſpect it Carry'd to <hi>Spain,</hi> whoſe Propoſals it ſhrunk from, was ſo offenſive to His Majeſty, that the Ambaſſadour like a wiſe and great Miniſter, that is, like himſelf, thought it became him to ſend it back again without of<g ref="char:EOLhyphen"/>fering to preſent it.</p>
+            <p>Nevertheleſs this Paper hath ſince ſtollen into the Preſs, and is Printed at the <hi>Hague</hi> as a Letter delivered, and hath been ſent hither under Covers to ſeveral members of the Houſe of Com<g ref="char:EOLhyphen"/>mons, of that Houſe of Commons whom they Libell'd in the former War for their Zeal, and now Pretend to Reverence for their Deliberation.</p>
+            <p>And all this in hopes you will not think them obſtinate, who refuſe to Treat at the Place of their Own Appointment, or to be well underſtood any were elſe. How is it poſſible to underſtand theſe Proceedings to be Real, and with a true deſire of Peace, And if they ſhould yet ſend during this Seſſion any New Propoſal, for who Knows the Deſigns of an Enemy; what form ſoever thoſe
+<pb n="10" facs="tcp:103904:6"/>Overtures may be dreſt in, we may juſtly ſuſpect that their End is, if they cannot Divide us, at leaſt to Amuſe us and leſſen our Care is Providing for the War.</p>
+            <p>Perhaps 'tis more then an Honourable War doth allow to go about to raiſe Sedition, though in the Country of an Enemy, But ſurely the Artifice of Appealing in a Manner to the people, and making them the Judges of Peace and War, is a little too plain and open to take any Effect here.</p>
+            <p>I have done with theſe few Inſtances of His Majeſties care, thoſe of His kindneſs are infinite, That which you have heard this morning is of a Tranſcendent, and indeed a very ſurprizing Nature, 'Tis an Act of ſo Entire a Confidence on His Majeſties part, that it can never be repayed by any other Tribute on your part, but that of a True and Humble Aſſiance in Him.</p>
+            <p>I muſt now proceed to put you in mind That There are ſome other things which His Majeſty with Great Juſtice and Great aſ<g ref="char:EOLhyphen"/>ſurance doth Expect from you again.</p>
+            <p>The firſt is a ſpeedy and a Proportionable Supply, and this is of abſolute neceſſity both for War and Peace.</p>
+            <p>Hs Majeſty is well aſſur'd His Fleet is in ſuch a forwardneſs, that if the Supply come in any reaſonable Time, you will find no Time hath been loſt in preparation; And it was no ſmall matter to bring it to, paſs that we may be as forward as our Enemies that if we pleaſe, or very neer it.</p>
+            <p>If the Supply be at all Delay'd, it will have as ill effect almoſt as if it were denied, For We may chance to be found like <hi>Archimedes,</hi> drawing Lines in the Duſt while the Enemy is entring into our Ports. And if the further Progeſs of this Fleet be ſtopt for want your Concurrence, make Account all hopes of Peace are ſtopt too: For, though the Fruit of War be Peace, Yet its ſuch a Fruit as we muſt not Hope to gather without our Arms, in our Hands.</p>
+            <p>Tis not the way to have a brave Peace, to ſhew our ſelves weary of the War; who ever Truſted to the good Nature of their Enemies; Tis a vigorous aſſiſtance of the Crown that muſt make not only your Arms conſiderable, but your Treaties too.</p>
+            <p>One the other ſide, if the putting your ſelves in a good Poſture of War ſhould produce a Peace, as poſſibly it may do, Yet you will have the beſt Account of your Supply your Hearts can Will, For His Majeſty is content, it be appropriated to the building of more Ships.</p>
+            <p>Therefore if the Diſcourſe upon this Subject be a little more Preſ<g ref="char:EOLhyphen"/>ſing then Ordinary, you may be ſure the Occaſion is ſo too.</p>
+            <p>There cannot be a Higher Gratification of your Enemies then to be backward in this Point; The very Opinion they have that you would be ſo, hath already done us ſo much harm, that perhaps it is one great Cauſe of the Continuance of the War.</p>
+            <p>Had the Enemy deſpair'd of any Diviſion here, 'tis likely his Proceedings had been more Sincere, and our Peace had not been ſo far off as now it ſeems to be.</p>
+            <pb n="11" facs="tcp:103904:6"/>
+            <p>There is one thing more the King hath mention'd, and only mention'd to you, that is the Conſideration of the Goldſmiths, which involves ſo many Perſons and Families, that the Concern is little les then National, 'Tis an affair the King lays very much to Heart, and hopes a Proper time will come when a favourable Re<g ref="char:EOLhyphen"/>gard may be had of it.</p>
+            <p>
+               <hi>My Lords and Gentlemen,</hi>
+            </p>
+            <p>The King doth not onely aſſure himſelf of your Affections to him at this time, But from ſuch Affections ſo Known and ſo Tri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as yours, he doth yet Expect far greater things then theſe.</p>
+            <p>He doth Expect that you ſhould do your Endeavours to reſtore and improve the mutual confidence between him and his Peo<g ref="char:EOLhyphen"/>ple, and that you ſhould do it to ſuch a Degree that it may re<g ref="char:EOLhyphen"/>cover its full ſtrength, and quite Extinguiſh all their Fears, and Jealouſies.</p>
+            <p>For the King takes Notice that the malice of his Enemies hath been very Active in Sowing ſo many Tares, as are almoſt enough to Spoyl that Harveſt of Love, and Duty which His Majeſty may juſtly Expect to reap from the good ſeed which He Himſelf had Sown.</p>
+            <p>Among the many Venemous Inſinuations which have been made uſe of, the Fears and Jealouſies of Religion and Liberty, are of the worſt ſort, and the moſt Dangerous Impreſſions.</p>
+            <p>Cetainly Malice was never more buſie then it hath been in theſe Reports, and it hath been aſſiſted by a great Deal of Invention.</p>
+            <p>But 'tis to be hoped that no Mans Judgement or affections will be either miſſed or Diſturbed by ſuch Reports.</p>
+            <p>For Calumnies and Slanders of this Nature are like Comets in the Air, they may ſeem perhaps, Eſpecially to the fearfull, to be ill Prognoſticaſts, and the Direct forerunners of miſchief, But in them<g ref="char:EOLhyphen"/>ſelves they are Vain Apparitions, and have no kind of Solidity, no Permanence or Duration at all. For after a little while the Vapour ſpends it ſelf, and then the Baſe Exhalation quickly falls back a<g ref="char:EOLhyphen"/>gain into that Earth from whence it came.</p>
+            <p>Religion and Liberty ſtand ſecur'd by the moſt Sacred Tyes that are, Nay the King hath a greater Intereſt in the preſervation of both, then you your ſelves; For as Religion, the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, commends your indiſpenſable obedience, ſo 'tis a Juſt and Lawful Liberty which ſwettens that command, and endears it to you.</p>
+            <p>Let other Princes therefore Glory in the moſt reſign'd obedience of their Vaſſals, His Majeſty values Himſelf upon the Hearts and affections of His people, and thinks His Throne within Seated there, better Eſtabliſhed then the moſt Exalted. Soveraignty of thoſe who tread upon the Necks of them that riſe up againſt them.</p>
+            <p>Since the world ſtood, never any King had ſo great a Cauſe to reſt upon this Security.</p>
+            <p>They were your Hearts that mourned in Secret for the abſence
+<pb n="12" facs="tcp:103904:7"/>of the King; They were your Hearts and affections to the King which Tyr'd out all the late Uſurpations, by your invincible Pati<g ref="char:EOLhyphen"/>tience and fortitude; It was you that Taught our Engliſh World to See and Know that no Government could be ſetled here, but upon the true foundations of <hi>Honour and Allegeance.</hi>
+            </p>
+            <p>This, This alone made way for all the happy Changes which have follow'd.</p>
+            <p>And yet Poſterity will have cauſe to doubt, which was the great<g ref="char:EOLhyphen"/>er Felicity of the two, That Providence which reſtor'd the Crown, or that which ſent us ſuch a Parliament to preſerve it when it was reſtor'd. What may not the King now hope from you? What may not you aſſure your ſelves from him? Can any thing be difficult to Hearts ſo united, To Intereſts ſo Twiſted and interwoven together, as the Kings and yours are.</p>
+            <p>Doubtleſs the King will ſurpaſs himſelf at this time in Endeavou<g ref="char:EOLhyphen"/>ring to procure the good of the Kingdom, Do but you Excell your ſelves too in the continued Evidences of your affections, and then the Glory of Reviving this State will be entirely due to this Seſſion.</p>
+            <p>Then they who Wait for the Languiſhing and Declination of the preſent Government, will be Amaz'd to ſee ſo happy a Criſis, ſo bleſt a Revolution.</p>
+            <p>And Ages to come will find cauſe to Celebrate your Memories, as the trueſt Phyſicians, the wiſeſt Counſellors, the Nobleſt Pa<g ref="char:EOLhyphen"/>triots, and beſt Seſſion of the beſt Parliament that ever King or Kingdom met with.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
